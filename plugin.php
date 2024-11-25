@@ -1,11 +1,11 @@
 <?php
 
 /**
- * Plugin Name: Breakdance Custom Elements
- * Plugin URI: https://breakdance.com/
- * Description: Boilerplate plugin to save your custom elements created with Element Studio.
+ * Plugin Name: Breakdance Custom Menu
+ * Plugin URI: https://workbazr.com/
+ * Description: For the menu and adding icons to menu
  * Author: Breakdance
- * Author URI: https://breakdance.com/
+ * Author URI: https://workbazr.com/
  * License: GPLv2
  * Text Domain: breakdance
  * Domain Path: /languages/
